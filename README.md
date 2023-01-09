@@ -5,6 +5,7 @@ Table of Content:
 1. [The Demon Prince (PRINCE)](https://github.com/WarperSan/BossPack#1-the-demon-prince-prince)
 2. [Queen of Jaws (CEVER)](https://github.com/WarperSan/BossPack#1-the-demon-prince-prince)
 3. [Bloontonium Expert (ETDB)](https://github.com/WarperSan/BossPack/blob/main/README.md#3-bloontonium-expert-etdb)
+4. [Flame of Terror](https://github.com/WarperSan/BossPack/blob/main/README.md#4-flame-of-terror)
 
 Credits to all the people who did the art !
 
@@ -104,6 +105,27 @@ https://bloonsconception.fandom.com/wiki/E.T.D.B (Art)
 | 3  | 350k | 6.5 | 3 |
 | 4  | 800k | 6.5 | 5 |
 | 5  | 1.25M | 6.5 | 7 |
+
+Idea behind it:
+If the Monkeys can use fire, why not Bloons too ? Burning through your savings >:)
+
+Credit: 
+https://bloonsconception.fandom.com/wiki/Flame_of_Terror (Art & Name)
+
+# 5. King of Ghost (WIGHT)
+**Immunity**: Magic (Purple)
+
+**Skull Effect**: 
+
+**Timer Effect**: Spawns 50 * (Current Round) / 20 Purples every second
+
+| Tier  | Health | Speed | # Skulls |
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | 30k | 1.5 | 3 |
+| 2  | 100k | 1.875 | 3 |
+| 3  | 500k | 2.25 | 3 |
+| 4  | 1M | 2.625 | 4 |
+| 5  | 5M | 3 | 5 |
 
 Idea behind it:
 If the Monkeys can use fire, why not Bloons too ? Burning through your savings >:)
