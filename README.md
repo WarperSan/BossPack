@@ -16,8 +16,8 @@ Notes:
 # 1. The Demon Prince (PRINCE)
 **Immunity**: Purple
 
-**Skull Effect**: Remove 75 * Math.Floor(Current Round / 40) lives
-(Round 60 is also 75)
+**Skull Effect**: Remove 50 * Math.Floor(Current Round / 40) lives
+(Round 60 is also 50)
 
 **Timer Effect**: Remove 2 lives
 
