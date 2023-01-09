@@ -6,6 +6,7 @@ Table of Content:
 2. [Queen of Jaws (CEVER)](https://github.com/WarperSan/BossPack#1-the-demon-prince-prince)
 3. [Bloontonium Expert (ETDB)](https://github.com/WarperSan/BossPack/blob/main/README.md#3-bloontonium-expert-etdb)
 4. [Flame of Terror](https://github.com/WarperSan/BossPack/blob/main/README.md#4-flame-of-terror)
+5. Ghost King
 
 Credits to all the people who did the art !
 
@@ -112,7 +113,7 @@ If the Monkeys can use fire, why not Bloons too ? Burning through your savings >
 Credit: 
 https://bloonsconception.fandom.com/wiki/Flame_of_Terror (Art & Name)
 
-# 5. King of Ghost (WIGHT)
+# 5. Ghost Kind (WIGHT)
 **Immunity**: Magic (Purple)
 
 **Skull Effect**: Heals 50% of it's max health
@@ -131,4 +132,4 @@ Idea behind it:
 Why beat one boss when you can beat multiple ?
 
 Credit: 
-https://bloonsconception.fandom.com/wiki/Flame_of_Terror (Art & Name)
+https://bloonsconception.fandom.com/wiki/W.I.G.H.T._ (Art & Name)
