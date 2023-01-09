@@ -27,7 +27,6 @@ Notes:
 | 5  | 5M | 3 | 5 | 3 |
 
 Idea behind it:
-
 Pretty slow but dangerous if you can't farm enough lives. Is the T5 possible? Idk
 
 Credit: 
@@ -64,8 +63,28 @@ The tower must have at least one of the tier >=. (A Dart 3xx will count as Alive
 | 5  | 22.5k | 66 | 5 | 6 |
 
 Idea behind it:
-
 Maybe she isn't hard because of her HP but her speed will say otherwise.
 
 Credit: 
 https://bloonsconception.fandom.com/wiki/Cever (Art & Mechanic Ideas)
+
+# 3. Bloontonium Expert (ETDB)
+**Immunity**: Lead
+
+**Skull Effect**: Spawns 100 Purples on the same spot, even on tier 1
+
+**Timer Effect**: Regenerates 0.75% of it's max health
+
+| Tier  | Health | Speed | # Skulls | Timer (s) |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1  | 64k | 4.5 | 3 | 1 |
+| 2  | 128k | 3.93 | 3 | 1 |
+| 3  | 456k | 3.375 | 4 | 1 |
+| 4  | 768k | 2.75 | 5 | 1 |
+| 5  | 2.304M | 2.25 | 7 | 1 |
+
+Idea behind it:
+A healing tank.
+
+Credit: 
+https://bloonsconception.fandom.com/wiki/E.T.D.B (Art)
