@@ -115,7 +115,7 @@ https://bloonsconception.fandom.com/wiki/Flame_of_Terror (Art & Name)
 # 5. King of Ghost (WIGHT)
 **Immunity**: Magic (Purple)
 
-**Skull Effect**: 
+**Skull Effect**: Heals 50% of it's max health
 
 **Timer Effect**: Spawns 50 * (Current Round) / 20 Purples every second
 
@@ -128,7 +128,7 @@ https://bloonsconception.fandom.com/wiki/Flame_of_Terror (Art & Name)
 | 5  | 5M | 3 | 5 |
 
 Idea behind it:
-If the Monkeys can use fire, why not Bloons too ? Burning through your savings >:)
+Why beat one boss when you can beat multiple ?
 
 Credit: 
 https://bloonsconception.fandom.com/wiki/Flame_of_Terror (Art & Name)
