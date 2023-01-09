@@ -6,7 +6,7 @@ Table of Content:
 2. [Queen of Jaws (CEVER)](https://github.com/WarperSan/BossPack#1-the-demon-prince-prince)
 3. [Bloontonium Expert (ETDB)](https://github.com/WarperSan/BossPack/blob/main/README.md#3-bloontonium-expert-etdb)
 4. [Flame of Terror](https://github.com/WarperSan/BossPack/blob/main/README.md#4-flame-of-terror)
-5. Ghost King
+5. [Ghost King (WIGHT)](https://github.com/WarperSan/BossPack/blob/main/README.md#5-ghost-kind-wight)
 
 Credits to all the people who did the art !
 
@@ -132,4 +132,5 @@ Idea behind it:
 Why beat one boss when you can beat multiple ?
 
 Credit: 
-https://bloonsconception.fandom.com/wiki/W.I.G.H.T._ (Art & Name)
+https://bloonsconception.fandom.com/wiki/W.I.G.H.T. (Art & Name) (Add the dot at the end)
+ 
