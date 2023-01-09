@@ -33,7 +33,7 @@ Idea behind it:
 Pretty slow but dangerous if you can't farm enough lives. Is the T5 possible? Idk
 
 Credit: 
-https://www.reddit.com/r/btd6/comments/bf7evw/new_bloon_vampire/ (Art)
+[Art](https://www.reddit.com/r/btd6/comments/bf7evw/new_bloon_vampire/)
 
 # 2. Queen of Jaws (CEVER)
 **Immunity**: None
@@ -69,7 +69,7 @@ Idea behind it:
 Maybe she isn't hard because of her HP but her speed will say otherwise.
 
 Credit: 
-https://bloonsconception.fandom.com/wiki/Cever (Art & Mechanic Ideas)
+[Art & Mechanic Ideas](https://bloonsconception.fandom.com/wiki/Cever)
 
 # 3. Bloontonium Expert (ETDB)
 **Immunity**: Lead
@@ -90,7 +90,7 @@ Idea behind it:
 A healing tank. And yes, I misspelled so many times it's name...
 
 Credit: 
-https://bloonsconception.fandom.com/wiki/E.T.D.B (Art)
+[Art](https://bloonsconception.fandom.com/wiki/E.T.D.B)
 
 # 4. Flame of Terror
 **Immunity**: Magic (Purple)
@@ -111,7 +111,7 @@ Idea behind it:
 If the Monkeys can use fire, why not Bloons too ? Burning through your savings >:)
 
 Credit: 
-https://bloonsconception.fandom.com/wiki/Flame_of_Terror (Art & Name)
+[Art & Name](https://bloonsconception.fandom.com/wiki/Flame_of_Terror)
 
 # 5. Ghost Kind (WIGHT)
 **Immunity**: Magic (Purple)
@@ -132,5 +132,5 @@ Idea behind it:
 Why beat one boss when you can beat multiple ?
 
 Credit: 
-https://bloonsconception.fandom.com/wiki/W.I.G.H.T. (Art & Name) (Add the dot at the end)
+[Art & Name](https://bloonsconception.fandom.com/wiki/W.I.G.H.T.)
  
