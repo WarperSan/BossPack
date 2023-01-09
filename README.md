@@ -89,3 +89,24 @@ A healing tank. And yes, I misspelled so many times it's name...
 
 Credit: 
 https://bloonsconception.fandom.com/wiki/E.T.D.B (Art)
+
+# 4. Flame of Terror
+**Immunity**: Magic (Purple)
+
+**Skull Effect**: Removes 40% of your current cash amount
+
+**Timer Effect**: Spawns 60 * Math.Floor(Current Round / 40) Ceramics every 30 seconds
+
+| Tier  | Health | Speed | # Skulls |
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | 70k | 6.5 | 1 |
+| 2  | 150k | 6.5 | 2 |
+| 3  | 350k | 6.5 | 3 |
+| 4  | 800k | 6.5 | 5 |
+| 5  | 1.25M | 6.5 | 7 |
+
+Idea behind it:
+If the Monkeys can use fire, why not Bloons too ? Burning through your savings >:)
+
+Credit: 
+https://bloonsconception.fandom.com/wiki/Flame_of_Terror (Art & Name)
