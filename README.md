@@ -116,9 +116,9 @@ https://bloonsconception.fandom.com/wiki/Flame_of_Terror (Art & Name)
 # 5. Ghost Kind (WIGHT)
 **Immunity**: Magic (Purple)
 
-**Skull Effect**: Heals 50% of it's max health
+**Skull Effect**: Spawns 4 Will-o'-the-wisp Bloons which have 5% of the boss's max health and makes the boss invicible until all the Will-o'-the-wisp bloons are popped
 
-**Timer Effect**: Spawns 50 * (Current Round) / 20 Purples every second
+**Timer Effect**: Spawns 10 * (Current Round) / 20 Purples every second
 
 | Tier  | Health | Speed | # Skulls |
 | ------------- | ------------- | ------------- | ------------- |
