@@ -17,7 +17,7 @@ Skull Effect: Remove 75 * Math.Floor(Current Round / 40) lives
 Timer Effect: Remove 2 lives
 
 | Tier  | Health | Speed | # Skulls | Timer (s) |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | 30k | 1.5 | 3 | 9 |
 | 2  | 100k | 1.875 | 3 | 9 |
 | 3  | 500k | 2.25 | 3 | 6 |
