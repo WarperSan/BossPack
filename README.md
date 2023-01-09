@@ -37,7 +37,7 @@ https://www.reddit.com/r/btd6/comments/bf7evw/new_bloon_vampire/ (Art)
 
 **Skull Effect**: Speeds up for a short amount of time
 
-**Timer Effect**: Selects a random tower and if it's a mechanical tower, remove 5 lives. If the tower is alive, it sells it at 50% worth and remove 10 lives
+**Timer Effect**: Each 6 seconds, she selects a random tower and if it's a mechanical tower, remove 5 lives. If the tower is alive, it sells it at 50% worth and remove 10 lives
 
 Mechanical Towers:
 - Dart 4xx
@@ -54,13 +54,13 @@ Mechanical Towers:
 - Village x3x
 The tower must have at least one of the tier >=. (A Dart 3xx will count as Alive when a 520 will count as Mechanical)
 
-| Tier  | Health | Speed | # Skulls | Timer (s) |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1  | 4.5k | 50 | 1 | 6 |
-| 2  | 9k | 54 | 2 | 6 |
-| 3  | 13.5k | 58 | 3 | 6 |
-| 4  | 18k | 62 | 4 | 6 |
-| 5  | 22.5k | 66 | 5 | 6 |
+| Tier  | Health | Speed | # Skulls |
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | 4.5k | 50 | 1 |
+| 2  | 9k | 54 | 2 |
+| 3  | 13.5k | 58 | 3 |
+| 4  | 18k | 62 | 4 |
+| 5  | 22.5k | 66 | 5 |
 
 Idea behind it:
 Maybe she isn't hard because of her HP but her speed will say otherwise.
@@ -73,15 +73,15 @@ https://bloonsconception.fandom.com/wiki/Cever (Art & Mechanic Ideas)
 
 **Skull Effect**: Spawns 100 Purples on the same spot, even on tier 1
 
-**Timer Effect**: Regenerates 0.75% of it's max health
+**Timer Effect**: Regenerates 0.75% of it's max health each second
 
-| Tier  | Health | Speed | # Skulls | Timer (s) |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1  | 64k | 4.5 | 3 | 1 |
-| 2  | 128k | 3.93 | 3 | 1 |
-| 3  | 456k | 3.375 | 4 | 1 |
-| 4  | 768k | 2.75 | 5 | 1 |
-| 5  | 2.304M | 2.25 | 7 | 1 |
+| Tier  | Health | Speed | # Skulls |
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | 64k | 4.5 | 3 |
+| 2  | 128k | 3.93 | 3 |
+| 3  | 456k | 3.375 | 4 |
+| 4  | 768k | 2.75 | 5 |
+| 5  | 2.304M | 2.25 | 7 |
 
 Idea behind it:
 A healing tank.
