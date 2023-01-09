@@ -2,8 +2,9 @@
 This mod adds multiple bosses with their own mechanic. All details are explained in each section.
 
 Table of Content:
-1. The Demon Prince (PRINCE)
-2. Queen of Jaws (CEVER)
+1. [The Demon Prince (PRINCE)](https://github.com/WarperSan/BossPack#1-the-demon-prince-prince)
+2. [Queen of Jaws (CEVER)](https://github.com/WarperSan/BossPack#1-the-demon-prince-prince)
+3. [Bloontonium Expert (ETDB)](https://github.com/WarperSan/BossPack/blob/main/README.md#3-bloontonium-expert-etdb)
 
 Credits to all the people who did the art !
 
@@ -84,7 +85,7 @@ https://bloonsconception.fandom.com/wiki/Cever (Art & Mechanic Ideas)
 | 5  | 2.304M | 2.25 | 7 |
 
 Idea behind it:
-A healing tank.
+A healing tank. And yes, I misspelled so many times it's name...
 
 Credit: 
 https://bloonsconception.fandom.com/wiki/E.T.D.B (Art)
