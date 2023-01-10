@@ -1,6 +1,8 @@
 # Boss Pack
 This mod adds multiple bosses with their own mechanic. All details are explained in each section.
 
+Are the bosses possible to beat in a normal game ? I have no idea. GL
+
 Table of Content:
 1. [The Demon Prince (PRINCE)](https://github.com/WarperSan/BossPack#1-the-demon-prince-prince)
 2. [Queen of Jaws (CEVER)](https://github.com/WarperSan/BossPack#1-the-demon-prince-prince)
