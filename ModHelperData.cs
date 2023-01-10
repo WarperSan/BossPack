@@ -10,5 +10,6 @@
         public const string Author = "WarperSan";
         public const string RepoOwner = "WarperSan";
         public const string RepoName = "BossPack";
+        public const string WorksOnVersion = "34.3";
     }
 }
