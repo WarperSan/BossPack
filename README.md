@@ -13,8 +13,7 @@ Table of Content:
 Credits to all the people who did the art !
 
 Notes: 
-- A Red bloon has 25 in speed
-- All given stats are (Health; Speed; Skull Number; Timer (s); Other)
+- A Red bloon has a speed of 25 and a Bad has a speed of 4.5
 # 1. The Demon Prince (PRINCE)
 **Immunity**: Purple
 
