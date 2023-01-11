@@ -114,7 +114,7 @@ If the Monkeys can use fire, why not Bloons too ? Burning through your savings >
 Credit: 
 [Art & Name](https://bloonsconception.fandom.com/wiki/Flame_of_Terror)
 
-# 5. Ghost Kind (WIGHT)
+# 5. Ghost King (WIGHT)
 **Immunity**: Magic (Purple)
 
 **Skull Effect**: Spawns 4 Will-o'-the-wisp Bloons which have 5k hp and makes the boss invicible until all the Will-o'-the-wisp bloons are popped
