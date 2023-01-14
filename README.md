@@ -11,6 +11,7 @@ Table of Content:
 5. [Ghost King (WIGHT) & Will-o'-the-wisp Bloon](https://github.com/WarperSan/BossPack/blob/main/README.md#5-ghost-king-wight)
 6. [Goemon's Student (NINJA)](https://github.com/WarperSan/BossPack/edit/main/README.md#6-goemons-student)
 7. [If you want to use BossPack's UI with your own custom boss](https://github.com/WarperSan/BossPack/edit/main/README.md#for-programmers)
+
 Credits to all the people who did the art !
 
 Notes: 
