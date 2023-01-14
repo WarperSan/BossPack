@@ -94,7 +94,7 @@ Credit:
 [Art](https://bloonsconception.fandom.com/wiki/E.T.D.B)
 
 # 4. Flame of Terror
-**Immunity**: Magic (Purple)
+**Immunity**: Purple
 
 **Skull Effect**: Removes 40% of your current cash amount
 
@@ -115,7 +115,7 @@ Credit:
 [Art & Name](https://bloonsconception.fandom.com/wiki/Flame_of_Terror)
 
 # 5. Ghost King (WIGHT)
-**Immunity**: Magic (Purple)
+**Immunity**: Purple
 
 **Skull Effect**: Spawns 4 Will-o'-the-wisp Bloons which have 5k hp and makes the boss invicible until all the Will-o'-the-wisp bloons are popped
 
