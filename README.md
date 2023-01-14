@@ -140,7 +140,7 @@ Credit:
 | 4  | 556.8k | 3 | 2 | 18.75 |
 | 5  | 1.912M | 3 | 2 | 15 |
  
-Art, Name & Main Mechanic from thijs
+Credit: Art, Name & Main Mechanic from thijs
 
 # If you want to use BossPack's UI with your own custom boss
 If you create a custom boss and you give it a HealthPercentTriggerModel, your boss will be able to use the boss bar that is given by BossPack. 
