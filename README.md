@@ -16,6 +16,7 @@ Credits to all the people who did the art !
 
 Notes: 
 - A Red bloon has a speed of 25 and a Bad has a speed of 4.5
+- Math.Floor(x) means that it only keeps the integer part of the number (1 => 1; 1.3 => 1; 1.99999 => 1; 2 => 2)
 
 # 1. The Demon Prince (PRINCE)
 **Immunity**: Purple
@@ -56,6 +57,7 @@ Mechanical Towers:
 - Farm 333
 - Spike 000
 - Village x3x
+
 The tower must have at least one of the tier >=. (A Dart 3xx will count as Alive when a 520 will count as Mechanical)
 
 | Tier  | Health | Speed | # Skulls |
