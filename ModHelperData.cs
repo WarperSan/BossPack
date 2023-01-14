@@ -2,11 +2,11 @@
 {
     public static class ModHelperData
     {
-        public const string Version = "1.0.1";
+        public const string Version = "1.1.0";
         public const string Name = "Boss Pack";
         public const string Icon = "BossPack-Icon.png";
 
-        public const string Description = "Adds 5 new bosses to the game: The Demon Prince, Queen of Jaws, Bloontonium Expert, Flame of Terror and Ghost King";
+        public const string Description = "Adds New Bosses to the Game";
 
         public const string Author = "WarperSan";
         public const string RepoOwner = "WarperSan";
