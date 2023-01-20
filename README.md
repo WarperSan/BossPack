@@ -9,7 +9,7 @@ Table of Content:
 3. [Bloontonium Expert (ETDB)](https://github.com/WarperSan/BossPack/blob/main/README.md#3-bloontonium-expert-etdb)
 4. [Flame of Terror](https://github.com/WarperSan/BossPack/blob/main/README.md#4-flame-of-terror)
 5. [Ghost King (WIGHT) & Will-o'-the-wisp Bloon](https://github.com/WarperSan/BossPack/blob/main/README.md#5-ghost-king-wight)
-6. [Goemon's Student (NINJA)](https://github.com/WarperSan/BossPack/edit/main/README.md#6-goemons-student)
+6. [Goemon's Student (NINJA)](https://github.com/WarperSan/BossPack#6-goemons-student)
 7. [If you want to use BossPack's UI with your own custom boss](https://github.com/WarperSan/BossPack#if-you-want-to-use-bosspacks-ui-with-your-own-custom-boss)
 
 Credits to all the people who did the art !
