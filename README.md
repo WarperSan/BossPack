@@ -10,7 +10,6 @@ Table of Content:
 4. [Flame of Terror](https://github.com/WarperSan/BossPack/blob/main/README.md#4-flame-of-terror)
 5. [Ghost King (WIGHT) & Will-o'-the-wisp Bloon](https://github.com/WarperSan/BossPack/blob/main/README.md#5-ghost-king-wight)
 6. [Goemon's Student (NINJA)](https://github.com/WarperSan/BossPack#6-goemons-student)
-7. [If you want to use BossPack's UI with your own custom boss](https://github.com/WarperSan/BossPack#if-you-want-to-use-bosspacks-ui-with-your-own-custom-boss)
 
 Credits to all the people who did the art !
 
@@ -144,8 +143,3 @@ Credit:
 | 5  | 1.912M | 3 | 2 | 15 |
  
 Credit: Art, Name & Main Mechanic from thijs
-
-# If you want to use BossPack's UI with your own custom boss
-If you create a custom boss and you give it a HealthPercentTriggerModel, your boss will be able to use the boss bar that is given by BossPack. 
-
-Note that BossPack manages bosses that have **evenly spaced skulls** (e.g.: 2 skulls will be placed at 66% and 33%). Plus, the boss icon is taken from Bloon.bloonModel.icon
