@@ -122,7 +122,7 @@ Credit:
 | 5  | 5M | 3 | 5 |
 
 # **Will-o'-wisp Bloon**
-Bloon immune to every attack except Ice Monkey's attacks
+Can only be damaged by Ice Monkey's Attacks
 
 Credit: 
 [Art & Name](https://bloonsconception.fandom.com/wiki/W.I.G.H.T.)
