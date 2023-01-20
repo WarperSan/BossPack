@@ -503,29 +503,4 @@ namespace Mod
             SkullContainer.transform.GetChild(skullIndex).GetComponent<Animator>().enabled = true;
         }
     }
-
-    public class BossInfos
-    {
-        public string DisplayName;
-        public string Name;
-        public string Icon;
-        public Action? Skull;
-        public Action? TimerAbility;
-        public float TimerMax;
-        public int SkullCount;
-
-        public BossInfos(
-            string DisplayName, string Name, string Icon,
-            Action? Skull, int SkullCount,
-            Action? TimerAbility, float TimerMax)
-        {
-            this.DisplayName = DisplayName;
-            this.Name = Name;
-            this.Icon = Icon;
-            this.Skull = Skull;
-            this.TimerAbility = TimerAbility;
-            this.TimerMax = TimerMax;
-            this.SkullCount = SkullCount;
-        }
-    }
 }
