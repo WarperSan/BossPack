@@ -8,7 +8,7 @@ Table of Content:
 2. [Queen of Jaws (CEVER)](https://github.com/WarperSan/BossPack#1-the-demon-prince-prince)
 3. [Bloontonium Expert (ETDB)](https://github.com/WarperSan/BossPack/blob/main/README.md#3-bloontonium-expert-etdb)
 4. [Flame of Terror](https://github.com/WarperSan/BossPack/blob/main/README.md#4-flame-of-terror)
-5. [Ghost King (WIGHT) & Will-o'-the-wisp Bloon](https://github.com/WarperSan/BossPack/blob/main/README.md#5-ghost-king-wight)
+5. [Ghost King (WIGHT) & Will-o'-wisp Bloon](https://github.com/WarperSan/BossPack/blob/main/README.md#5-ghost-king-wight)
 6. [Goemon's Student (NINJA)](https://github.com/WarperSan/BossPack#6-goemons-student)
 
 Credits to all the people who did the art !
@@ -109,7 +109,7 @@ Credit:
 # 5. Ghost King (WIGHT)
 **Immunity**: Purple
 
-**Skull Effect**: Spawns 4 Will-o'-the-wisp Bloons which have 5k hp and makes the boss invicible until all the Will-o'-the-wisp bloons are popped
+**Skull Effect**: Spawns 4 Will-o'-wisp Bloons which have 5k hp and makes the boss invicible until all the Will-o'-wisp bloons are popped
 
 **Timer Effect**: Spawns 10 * (Current Round) / 20 Purples every second
 
@@ -121,7 +121,7 @@ Credit:
 | 4  | 1M | 2.625 | 4 |
 | 5  | 5M | 3 | 5 |
 
-# **Will-o'-the-wisp Bloon**
+# **Will-o'-wisp Bloon**
 Bloon immune to every attack except Ice Monkey's attacks
 
 Credit: 
