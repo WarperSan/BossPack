@@ -1,17 +1,11 @@
-﻿using BTD_Mod_Helper;
-using BTD_Mod_Helper.Api;
-using BTD_Mod_Helper.Api.Bloons;
+﻿using BTD_Mod_Helper.Api.Bloons;
 using BTD_Mod_Helper.Api.Display;
 using BTD_Mod_Helper.Api.Enums;
 using BTD_Mod_Helper.Extensions;
 using Il2Cpp;
 using Il2CppAssets.Scripts.Models.Bloons;
 using Il2CppAssets.Scripts.Models.Bloons.Behaviors;
-using Il2CppAssets.Scripts.Simulation.Bloons.Behaviors;
-using Il2CppAssets.Scripts.Simulation.Towers;
 using Il2CppAssets.Scripts.Unity.Display;
-using Il2CppAssets.Scripts.Unity.UI_New.InGame;
-using Mod;
 using System.Collections.Generic;
 using UnityEngine;
 
